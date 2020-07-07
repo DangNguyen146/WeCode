@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\CTDL&GT\WeCode\dslkdon_solanxuathien\Source.cpp(10,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+F:\CTDL&GT\WeCode\dslkdon_solanxuathien\Source.cpp(15,2): warning C4091: 'typedef ': ignored on left of 'List' when no variable is declared
+  dslkdon_solanxuathien.vcxproj -> F:\CTDL&GT\WeCode\Debug\dslkdon_solanxuathien.exe
